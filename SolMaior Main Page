@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="./music-solid-24.ico" type="icon">
+    <title>Sol Maior</title>
+    
+    <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+    <!-- or -->
+    <link rel="stylesheet"
+    href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="Sol.css">
+    </head>
+    <body> 
+        <style>
+            
+        </style>
+
+             <h2 id="lema">"Instrumentos diversos do Do ao Si"</h1>
+             <header>
+                <a href="index.html" class="logo"><i class='bx bxs-music'></i>Sol Maior</a>
+                <div class="header-icons">
+                <i class='bx bx-cart' ></i>
+                <div id="contact"><i class='bx bx-envelope'></i></div>
+                </div>
+             </header>
+             <div class="src-cxa">
+             <input type="text" class="src-txt" placeholder="Pesquisar">
+              <a href="#" class="lupa">
+               <i class='bx bx-search'></i>
+              </a>
+             </div>            
+             
+            </div>
+            
+             <div class="container mt-4">
+                <div class="row">
+                <div class="col-md-4">
+                        <h2 id="Pnovos">Produtos Novos</h2>
+                        <main>
+                            <table class="ProdNovos">
+                                <tr>
+                                    <td>
+                                        <img src="imagens/Violão Yamaha.png" alt="violao">
+                                    </td>
+                                    <td>
+                                        <p>Violão Yamaha NCX1 NT Nylon Natural</p>
+                                        <p>R$ 3.384,61</p>
+                                        <button>Adicionar ao Carrinho</button>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img src="imagens/Bateria Noah.png" alt="Bateria">
+                                    </td>
+                                    <td>
+                                        <p>Bateria NOAH SC5 22 Metalic Wine</p>
+                                        <p>R$ 3.221,76</p>
+                                        <button>Adicionar ao Carrinho</button>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img src="imagens/Guitarra Lespaul.png" alt="guitarra">
+                                    </td>
+                                    <td>
+                                        <p>Guitarra Vintage V100 LesPaul Honey Burst</p>
+                                        <p>R$ 3.695,13</p>
+                                        <button>Adicionar ao Carrinho</button>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img src="imagens/Trombone de Vara Jupiter.png" alt="tromb">
+                                    </td>
+                                    <td>
+                                        <p>Trombone De Vara Jupiter JSL538RL BB/FÁ</p>
+                                        <p>R$ 10.116,55</p>
+                                        <button>Adicionar ao Carrinho</button>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img src="imagens/Sax Benson.png" alt="Sax">
+                                    </td>
+                                    <td>
+                                        <p>Saxofone Tenor Hofma HS GLQ Em Si Bemol</p>
+                                        <p>R$ 4.851,28</p>
+                                        <button>Adicionar ao Carrinho</button>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img src="imagens/Teclado Yamaha.png" alt="teclado">
+                                    </td>
+                                    <td>
+                                        <p>Teclado Yamaha PSR-SX600 Arranjador</p>
+                                        <p>R$ 6.597,97</p>
+                                        <button>Adicionar ao Carrinho</button>
+                                    </td>
+                                </tr>
+                            </table>
+                        </main>
+                    </div>
+                    <div class="col-md-4">
+                        <h2 id="Offdest">Ofertas Em Destaque</h2>
+                        <main>
+                            <table class="Ofdestaq">
+                                <tr>
+                                    <td>
+                                        <img src="imagens/Violão Winner Junior.png" alt="violao">
+                                    </td>
+                                    <td>
+                                        <p>Violão Winner Junior 34 Preto 9371</p>
+                                        <p>R$ 345,66</p>
+                                        <button>Adicionar ao Carrinho</button>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img src="imagens/Baixo V40.png" alt="Baixo">
+                                    </td>
+                                    <td>
+                                        <p>Baixo Vintage V40 PB Coaster</p>
+                                        <p>R$ 1.681,74</p>
+                                        <button>Adicionar ao Carrinho</button>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img src="imagens/kit Mic.png" alt="Mic">
+                                    </td>
+                                    <td>
+                                        <p>KIT Microfone Com Fio KADOSH K-98 </p>
+                                        <p>R$ 483,13</p>
+                                        <button>Adicionar ao Carrinho</button>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img src="imagens/Flauta Doce.png" alt="Flauta">
+                                    </td>
+                                    <td>
+                                        <p>Flauta Doce Yamaha YRS-24B Barroca</p>
+                                        <p>R$ 51,77</p>
+                                        <button>Adicionar ao Carrinho</button>
+                                    </td>
+                                </tr>
+                            </table>
+                        </main>
+                    </div>
+                </div>
+             </div>
+                    
+                   
+                          
+            <footer>
+                <div class="footer-logo">Sol Maior</div>
+                <div class="footer-contact">
+                    <p>Telefone: (79) 1234-5678</p>
+                    <p>E-mail: contato@lojasolmaior.com.br</p>
+                    <p>Endereço: Rua Exemplo, 1234 - Bairro Modelo</p>
+                    <p>Cidade Aracaju - Estado SE, CEP: 12345-678</p>
+                </div>
+        
+                <ul class="footer-links">
+                    <li><a href="#">Política de Privacidade</a></li>
+                    <li><a href="#">Termos e Condições de Uso</a></li>
+                    <li><a href="#">Perguntas Frequentes</a></li>
+                    <li><a href="#">Política de Devolução e Troca</a></li>
+                    <li><a href="#">Formas de Pagamento</a></li>
+                    <li><a href="#">Entrega e Prazos de Envio</a></li>
+                </ul>
+                <p>&copy; 2023 Sol Maior - A Melhor Loja de Instrumentos Musicais.</p>
+            </footer>
+  </body>
+  
+</html>
