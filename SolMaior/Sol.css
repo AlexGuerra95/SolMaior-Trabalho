@@ -1,0 +1,249 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+      background-color: #081020;
+      color: #fffd71;
+      
+      
+}
+
+header{ 
+        position: relative ;
+        width: 100%;
+        top: 0;
+        right: -10px;
+        z-index: 100;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        pad: 30px 8%;
+
+}
+
+.logo{
+       display: flex;
+       align-items: center;
+       color: #fff;
+       font-size: 28px;
+       font-weight:bold;
+}
+
+.logo i{
+        color:#fffc5f;
+        font-size: 50px;
+        margin-right: 5px;
+
+}
+.logo a{
+        color:#fffc5f;
+        font-size: 50px;
+        margin-right: 5px;
+        text-decoration: none;
+
+}
+.header-icons{ 
+                display: flex;
+                align-items: center;
+                margin-right: 70px;
+}
+
+#carrinho {
+
+                       color: #fff;
+                       font-size: 25px;
+                       margin-right:0%;
+}
+
+#contact{
+          font-size: 35px;
+          color: rgb(232, 253, 157);
+          z-index: 1001;
+          cursor: pointer;
+}
+
+
+.header-icons i {
+                   margin-right: 25px;
+                   font-size: 28px;
+                   cursor: pointer;
+                   transition: all .5s ease;                  
+                   }
+
+
+#lema{
+    position:relative;
+    top: 6px;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    pad: 30px;
+    color:#fff;
+    font-style: italic;
+    margin-left: 30%;
+    
+}
+
+.lupa i{
+    color:#fffc5f;
+    font-size: 25px;
+    margin-right:0%;
+    display: flex;
+    transition: all .5s ease;
+                               
+}
+.lupa i:hover{
+    transform: translateY(-5px);
+    color: #fff;
+
+
+}
+.src-cxa{
+    position:absolute;
+    width: 250px;
+    top: 100px;
+    left: 10px;
+    height: 40px;
+
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    border-radius: 40px;
+    color:#fff;
+    background-color: #3a3a3a;
+    padding: 10px;
+    margin: 0px;
+
+}
+.src-txt{ 
+          border:none;
+          background: none;
+          outline: none;
+          padding: 0px;
+          color: #fff;
+          font-size: 16px; }
+
+h1{
+    font: 4rem;
+}
+#Pnovos{
+    position: absolute;
+    top: 150px;
+    margin-left: 300px;
+}
+#Offdest{
+    position: absolute;
+    top: 150px;
+    margin-left: 950px;
+
+}
+p{
+    font: 1rem;
+}
+
+/* Tabela de produtos */
+
+table {
+   
+    width: 45%;
+    align-items: center;
+    border-collapse:separate;
+    border-radius: 40px;
+}
+
+
+
+th, td {
+    
+    padding: 5px;
+    text-align: left;
+}
+
+img {
+    max-width: 150px;
+    height: auto;
+}
+
+button {
+    background-color: #1e1e1f;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color: #313135 ;
+}
+
+.ProdNovos{
+    position: absolute;
+    top: 200px;
+    margin-left: 20px;
+}
+.Ofdestaq{
+    position:absolute;
+    top: 200px;
+    margin-left: 700px;
+}
+
+/* Rodapé */
+footer {
+    width: 100%;
+    position: relative ;
+    top:1200px;
+    color: #fff;
+    padding: 15px 0;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.footer-logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.footer-contact {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+
+/* Links do rodapé */
+.footer-links {
+    margin-top: 30px;
+    list-style: none;
+    padding: 0;
+}
+
+.footer-links li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+#tituloL{
+         background-color: #3a3a3aa6;
+         width: fit-content;
+         color: #fff;
+         border-radius: 40px;
+         justify-content:space-between;
+         position: absolute;
+         margin-left: 530px;
+         margin-top: 100px;
+         padding: 15px;
+}
+
